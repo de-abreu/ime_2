@@ -48,7 +48,7 @@
 
 - [ ] Endereços e ponteiros
 
-- [ ] Alocação dinâmica d ememória
+- [ ] Alocação dinâmica de memória
 
 - [ ] Leitura de linhas de texto
 
@@ -67,5 +67,3 @@
 - [ ] Pré-processamento
 
 - [ ] Ferramentas e utilitários
-
-
